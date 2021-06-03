@@ -1,9 +1,6 @@
-**Membre du groupe :**
+## Windows Server : Active Directory, DHCP, NTFS, GPO ##
 
-**John Kassab -- Hugo Jacques -- Loick Odry**
-
-**Vous trouverez en supplément la configuration du Windows Server en
-tête de page**
+#### Windows Server : Active Directory, DHCP, NTFS, GPO ######
 
 **Configuration Windows Server**
 
